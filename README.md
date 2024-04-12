@@ -6,3 +6,6 @@ This repo shows Design Patterns for Autonomous AI Agents and Various Frameworks 
 
 ## Taskweaver Design:
 <img width="812" alt="taskweaver_arch" src="https://github.com/NisaarAgharia/AI-Agents/assets/22457544/0157a33b-a50e-4990-bbe5-c2c5c104d856">
+
+## Autogen Agent Chat
+![autogen_agentchat](https://github.com/NisaarAgharia/AI-Agents/assets/22457544/1cd7ba29-2ad5-4fa6-94b2-c5e45a6c7eb9)
