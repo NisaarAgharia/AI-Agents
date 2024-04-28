@@ -15,3 +15,5 @@ This repo shows Design Patterns for Autonomous AI Agents and Various Frameworks 
 
 ## Multi-Agent Conversation
 <img width="1094" alt="chat_example" src="https://github.com/NisaarAgharia/AI-Agents/assets/22457544/04daadfa-abc4-4548-9f6e-b9425f25c4cb">
+
+<img width="750" alt="hugging-gpt" src="https://github.com/NisaarAgharia/AI-Agents/assets/22457544/2f43fee3-849f-49e8-bb4d-a69b8dce3788">
