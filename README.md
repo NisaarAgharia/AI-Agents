@@ -1,6 +1,6 @@
 Design Patterns for Autonomous AI Agents and Various Frameworks Like Autogen, Langraph, Taskweaver
 
-## Agent Overview
+## Agent Architecture
 ![agent-overview](https://github.com/NisaarAgharia/AI-Agents/assets/22457544/af916581-eb72-4412-a208-77de24ed7d23)
 
 ## Planner Component:
