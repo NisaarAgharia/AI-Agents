@@ -8,10 +8,11 @@ Design Patterns for Autonomous AI Agents and Various Frameworks Like Autogen, La
 
 ## Taskweaver Design:
 <img width="812" alt="taskweaver_arch" src="https://github.com/NisaarAgharia/AI-Agents/assets/22457544/0157a33b-a50e-4990-bbe5-c2c5c104d856">
-[Taskweaver GitHub Repository](https://github.com/microsoft/taskweaver/)
+[GitHub Repository](https://github.com/microsoft/taskweaver/)
 
 ## Autogen Agent Chat
 ![autogen_agentchat](https://github.com/NisaarAgharia/AI-Agents/assets/22457544/1cd7ba29-2ad5-4fa6-94b2-c5e45a6c7eb9)
+[GitHub Repository](https://github.com/microsoft/autogen)
 
 ## Multi-Agent Conversation
 <img width="1094" alt="chat_example" src="https://github.com/NisaarAgharia/AI-Agents/assets/22457544/04daadfa-abc4-4548-9f6e-b9425f25c4cb">
